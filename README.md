@@ -29,6 +29,8 @@
 ## Installation
 
 ```bash
+$ NodeJS v18.x
+$ npm i -g @nestjs/cli
 $ npm install
 ```
 
